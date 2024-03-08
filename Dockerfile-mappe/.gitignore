@@ -11,6 +11,7 @@
 !README.md
 !LICENSE
 !Dockerfile-base
+!Dockerfile
 !*.c
 !*.java
 !*.h
