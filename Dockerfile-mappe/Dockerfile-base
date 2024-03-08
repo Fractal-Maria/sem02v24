@@ -1,0 +1,5 @@
+BRUKER – ditt brukernavn i Linux i container
+PASSWD – din passord i Linux i container for kontoen med brukernavn BRUKER EPOSTADRESSE-GITHUB-REGISTRERING – e-post adressen du har brukt for å registrere deg på Github
+DITT-NAVN – ditt fulle navn (fornavn [mellomnavn] etternavn)
+PAT – Personal Access Token for din Github-konto GITHUB-BRUKERNAVN – ditt brukernavn for din Github-konto OS – operativsystemet (linux, windows, darwin osv.)
+ARCH – maksinvarearkitektur (amd64, arm64, 386 osv.)
